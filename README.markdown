@@ -2,7 +2,7 @@
 
 # something better?
 
- ## take one
+## take one
 
  * every day at 14:00
  * every third minute
@@ -13,7 +13,7 @@
  * 14:1-30:00
  * every 14:1-30:00 if friday
 
- ## take two
+## take two
 
  * when friday at 14:1-30:00
  * when year 2011 at :*
